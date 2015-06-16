@@ -1,0 +1,12 @@
+1. Use ImageHexer.bat to select areas of pictures you like
+   a) as parameter give directory to search for images (all files including subdirectories will be displayed)
+   b) click to recenter hexagon
+   c) use mouse wheel to make hexagon bigger or smaller
+   d) use buttons on the bottom to navigate
+   e) new files will be named *_hex_*
+
+2. Use ResizeDir.bat to resize hexed pictures to desired size
+   a) as parameters give from dir, to dir, width, height
+   
+3. Use MosaicMaker.bat to create mosaic picture
+   a) create xml file with parameters
